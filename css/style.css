@@ -3046,19 +3046,19 @@ pre .deletion {
 }
 @media (prefers-color-scheme: light) {
   .first-screen-container {
-    background: url("https://w.wallhaven.cc/full/d6/wallhaven-d663xo.png") center center/cover no-repeat !important;
+    background: url("https://w.wallhaven.cc/full/kx/wallhaven-kx8zrm.jpg") center center/cover no-repeat !important;
   }
 }
 @media (prefers-color-scheme: dark) {
   .first-screen-container {
-    background: url("https://w.wallhaven.cc/full/d6/wallhaven-d663xo.png") center center/cover no-repeat !important;
+    background: url("https://w.wallhaven.cc/full/kx/wallhaven-kx8zrm.jpg") center center/cover no-repeat !important;
   }
 }
 .light-mode .first-screen-container {
-  background: url("https://w.wallhaven.cc/full/d6/wallhaven-d663xo.png") center center/cover no-repeat !important;
+  background: url("https://w.wallhaven.cc/full/kx/wallhaven-kx8zrm.jpg") center center/cover no-repeat !important;
 }
 .dark-mode .first-screen-container {
-  background: url("https://w.wallhaven.cc/full/d6/wallhaven-d663xo.png") center center/cover no-repeat !important;
+  background: url("https://w.wallhaven.cc/full/kx/wallhaven-kx8zrm.jpg") center center/cover no-repeat !important;
 }
 .image-viewer-container {
   position: fixed;
